@@ -24,3 +24,11 @@ We used a dataset of 3,570 delinquent accounts and applied machine learning regr
 ## 📈 Model Performance
 
 The best-performing regression model was selected based on RMSE (Root Mean Squared Error), achieving optimized predictions for `totalpay`.
+
+## 🚀 How to Use
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/SelectCollectionsProject.git
+   cd SelectCollectionsProject
